@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+  <question time_limit="7">
+    <text>В каком году была основана Apple?</text>
+    <variants>
+      <variant>1972</variant>
+      <variant correct_variant="true">1976</variant>
+      <variant>1984</variant>
+    </variants>
+  </question>
+  <question time_limit="7">
+    <text>Сколько букв в греческом алфавите?</text>
+    <variants>
+      <variant>32</variant>
+      <variant>26</variant>
+      <variant correct_variant="true">24</variant>
+    </variants>
+  </question>
+  <question time_limit="7">
+    <text>Сколько метров в морской миле?</text>
+    <variants>
+      <variant correct_variant="true">1852</variant>
+      <variant>1240</variant>
+      <variant>870</variant>
+    </variants>
+  </question>
+</questions>
